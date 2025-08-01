@@ -107,8 +107,6 @@
 
 ---
 
----
-
 <div id="meus-projetos">
   <h1 align="center">🚀 Meus Projetos</h1>
   <table align="center">

@@ -105,4 +105,83 @@
   </table>
 </div>
 
+---
+
+---
+
+<div id="meus-projetos">
+  <h1 align="center">🚀 Meus Projetos</h1>
+  <table align="center">
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/portfolio-ana-silva.git">Portfólio</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Front.git">Instabytes-Front</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Back.git">Instabytes-Back</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/calculadora.git">Calculadora</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/lista-de-tarefas.git">Lista de Tarefas</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/criptografia-php.git">Criptografia</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/localizacao-php.git">Localização</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/spotify-front.git">Spotify</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/spotify-react-front.git">Spotify React</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/crud-angular.git">CRUD</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/crud-login-php.git">CRUD e Login</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/WeatherNow.git">Condições do Tempo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/condicoes-do-tempo-webpack.git">Tempo com Webpack</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/login-angular-java.git">Login</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/jokempo.git">Jokempô</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/conversor-won.git">Conversor de Won</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/jogo-chao-vidro.git">Jogo Chão de Vidro</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/jogo-cabo-guerra.git">Jogo Cabo de Guerra</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/show-milhao.git">Show do Milhão</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/nubank-current-style-frontend.git">Nubank Moderna</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/nubank-old-style-frontend.git">Nubank Antiga</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-sudoku.git">Sudoku</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/sistema-hortifruti.git">Hortifruti</a></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div id="meus-estudos">
+  <h1 align="center">📚 Meus Estudos</h1>
+  <table align="center">
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-figma-para-devs.git">Figma para Devs</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-react.git">React</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-html.git">HTML</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-css.git">CSS</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-logica-programacao-javascript.git">Lógica com JS</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-typescript.git">TypeScript</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/bootcamp-dio-java-cloud-native.git">Java</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-python.git">Python</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-dados-python.git">Dados com Python</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-padroes-projeto.git">Padrões Java</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-restful-api-santander-dev-week-2023.git">Restful API</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-collections-java.git">Collections Java</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-StreamApi.git">Stream API</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-1.git">C++ Parte 1</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-2.git">C++ Parte 2</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-backend.git">Backend</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/docker-alura.git">Docker</a></td>
+    </tr>
+  </table>
+</div>
 

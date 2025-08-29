@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, eu sou a Ana Silva! 👋</h1>
 
 <p align="center">
-  Desenvolvedora Front-end | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e aprendizado contínuo
+  Desenvolvedora Front-end | Analista de Sistemas | Apaixonada por tecnologia
 </p>
 <div align="center">
 <a href="mailto:anabento3807@gmail.com" target="_blank" >

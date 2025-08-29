@@ -61,6 +61,7 @@
           <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React Native" />
           <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
           <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+          <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         </td>
       </tr>
       <tr>

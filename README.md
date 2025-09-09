@@ -155,32 +155,118 @@
   <h1 align="center">📚 Meus Estudos</h1>
   <table align="center">
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-figma-para-devs.git">Figma para Devs</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-react.git">React</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-html.git">HTML</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-css.git">CSS</a></td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-figma-para-devs.git">
+          <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+          Figma para Devs
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-react.git">
+          <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+          React
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-html.git">
+          <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+          HTML
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-css.git">
+          <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+          CSS
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-logica-programacao-javascript.git">Lógica com JS</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-typescript.git">TypeScript</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/bootcamp-dio-java-cloud-native.git">Java</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-python.git">Python</a></td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-logica-programacao-javascript.git">
+          <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+          Lógica com JS
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-typescript.git">
+          <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+          TypeScript
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/bootcamp-dio-java-cloud-native.git">
+          <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+          Java
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-python.git">
+          <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          Python
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-dados-python.git">Dados com Python</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-padroes-projeto.git">Padrões Java</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-restful-api-santander-dev-week-2023.git">Restful API</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-collections-java.git">Collections Java</a></td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-dados-python.git">
+          <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          Dados com Python
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/dio-padroes-projeto.git">
+          <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+          Padrões Java
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/dio-restful-api-santander-dev-week-2023.git">
+          <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+          Restful API
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-collections-java.git">
+          <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+          Collections Java
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-StreamApi.git">Stream API</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-1.git">C++ Parte 1</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-2.git">C++ Parte 2</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trilha-backend.git">Backend</a></td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/dio-trilha-StreamApi.git">
+          <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+          Stream API
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-1.git">
+          <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+          C++ Parte 1
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-cpp-2.git">
+          <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+          C++ Parte 2
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/trilha-backend.git">
+          <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+          Backend
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/docker-alura.git">Docker</a></td>
+      <td>
+        <a href="https://github.com/AnaBeatrizBentoSilva/docker-alura.git">
+          <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+          Docker
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
 

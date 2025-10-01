@@ -145,6 +145,7 @@
       <td><a href="https://github.com/AnaBeatrizBentoSilva/nubank-old-style-frontend.git">Nubank Antiga</a></td>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-sudoku.git">Sudoku</a></td>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/sistema-hortifruti.git">Hortifruti</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/smart-support-ai.git">Agente de IA</a></td>
     </tr>
   </table>
 </div>

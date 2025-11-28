@@ -116,7 +116,7 @@
       <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Front.git">Instabytes-Front</a></td>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Back.git">Instabytes-Back</a></td>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/calculadora.git">Calculadora</a></td>
-    </tr>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trybank-web-front">Sistema Bancário(Front-end)</a></td>
     <tr>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/lista-de-tarefas.git">Lista de Tarefas</a></td>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/criptografia-php.git">Criptografia</a></td>

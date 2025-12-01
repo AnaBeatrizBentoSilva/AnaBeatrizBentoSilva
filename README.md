@@ -148,6 +148,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/AnaBeatrizBentoSilva/trybank-web-front">Sistema Bancário(Front-end)</a></td>
+      <td><a href="https://github.com/AnaBeatrizBentoSilva/trybank-core-service.git">Sistema Bancário(Back-end)</a></td>
     <tr>
   </table>
 </div>

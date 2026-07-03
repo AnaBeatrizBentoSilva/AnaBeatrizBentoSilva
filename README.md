@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, eu sou a Ana Silva! 👋</h1>
 
 <p align="center">
-  Dev Front-end
+  Frontend Developer
 </p>
 <div align="center">
 <a href="mailto:anabento3807@gmail.com" target="_blank" >

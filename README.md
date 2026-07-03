@@ -50,40 +50,36 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong><br>Front-End<br><br></strong></td>
+        <td><strong><br>Front-end<br><br></strong></td>
         <td>
           <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
           <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
+          <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
           <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
           <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
           <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React Native" />
-          <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+          <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         </td>
       </tr>
       <tr>
-        <td><strong><br>Back-End<br><br></strong></td>
+        <td><strong><br>Back-end<br><br></strong></td>
         <td>
-          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+           <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
           <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
           <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong><br>Dados<br><br></strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         </td>
       </tr>
       <tr>
         <td><strong><br>Banco de Dados<br><br></strong></td>
         <td>
           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
           <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
         </td>
       </tr>
@@ -108,48 +104,73 @@
 
 ---
 
-<div id="meus-projetos">
+ <div id="meus-projetos">
   <h1 align="center">🚀 Meus Projetos</h1>
+
+  <p align="center">
+    <em>A interface principal onde unifico minhas experiências, habilidades e o acesso direto a todas essas aplicações:</em>
+     <br />
+    <strong><a href="https://github.com/AnaBeatrizBentoSilva/portfolio-ana-silva.git">Conheça o meu Portfólio</a></strong>
+  </p>
+
+  <br />
+
+  <h3 align="center">⚡ Projetos Principais & Full-Stack</h3>
+  <p align="center"><em>Sistemas robustos, integrações de back-end, front-end e inteligência artificial.</em></p>
   <table align="center">
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/portfolio-ana-silva.git">Portfólio</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Front.git">Instabytes-Front</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Back.git">Instabytes-Back</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/calculadora.git">Calculadora</a></td>
+      <td>🏦 🎨 <a href="https://github.com/AnaBeatrizBentoSilva/trybank-web-front">Sistema Bancário (Front-end)</a></td>
+      <td>🏦 ⚙️ <a href="https://github.com/AnaBeatrizBentoSilva/trybank-core-service.git">Sistema Bancário (Back-end)</a></td>
+      <td>📸 🎨 <a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Front.git">Instabytes (Front-end)</a></td>
+      <td>📸 ⚙️ <a href="https://github.com/AnaBeatrizBentoSilva/Instabytes-Back.git">Instabytes (Back-end)</a></td>
+    </tr>
+      <tr>
+      <td>🔐 <a href="https://github.com/AnaBeatrizBentoSilva/login-angular-java.git">Login (Angular + Java)</a></td>
+      <td>📝 <a href="https://github.com/AnaBeatrizBentoSilva/crud-login-php.git">CRUD e Login (PHP)</a></td>
+      <td>🤖 <a href="https://github.com/AnaBeatrizBentoSilva/smart-support-ai.git">Agente de IA (Smart Support)</a></td>
+    </tr>
+  </table>
+
+  <br />
+
+  <h3 align="center">🎨 Projetos Principais & Front-end</h3>
+  <p align="center"><em>Desenvolvimento de interfaces modernas, clones de plataformas reais e fidelidade em UI/UX.</em></p>
+  <table align="center">
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/lista-de-tarefas.git">Lista de Tarefas</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/criptografia-php.git">Criptografia</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/localizacao-php.git">Localização</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/spotify-front.git">Spotify</a></td>
+      <td>💳 <a href="https://github.com/AnaBeatrizBentoSilva/nubank-current-style-frontend.git">Nubank (Interface Moderna)</a></td>
+      <td>💳 <a href="https://github.com/AnaBeatrizBentoSilva/nubank-old-style-frontend.git">Nubank (Interface Antiga)</a></td>
+      <td>🎵 <a href="https://github.com/AnaBeatrizBentoSilva/spotify-react-front.git">Spotify (React)</a></td>
+      <td>🎵 <a href="https://github.com/AnaBeatrizBentoSilva/spotify-front.git">Spotify (HTML/CSS)</a></td>
+    </tr>
+  </table>
+
+  <br />
+
+  <h3 align="center">🧪 Desafios de Código & Projetos de Estudo</h3>
+  <p align="center"><em>Aplicações menores para consolidar lógica de programação, consumo de APIs e utilitários.</em></p>
+  <table align="center">
+    <tr>
+      <td>🌤️ <a href="https://github.com/AnaBeatrizBentoSilva/WeatherNow.git">Condições do Tempo</a></td>
+      <td>🌤️ <a href="https://github.com/AnaBeatrizBentoSilva/condicoes-do-tempo-webpack.git">Tempo com Webpack</a></td>
+      <td>⚡ <a href="https://github.com/AnaBeatrizBentoSilva/crud-angular.git">CRUD (Angular)</a></td>
+      <td>📍 <a href="https://github.com/AnaBeatrizBentoSilva/localizacao-php.git">Localização</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/spotify-react-front.git">Spotify React</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/crud-angular.git">CRUD</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/crud-login-php.git">CRUD e Login</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/WeatherNow.git">Condições do Tempo</a></td>
+      <td>✅ <a href="https://github.com/AnaBeatrizBentoSilva/lista-de-tarefas.git">Lista de Tarefas</a></td>
+      <td>🛒 <a href="https://github.com/AnaBeatrizBentoSilva/sistema-hortifruti.git">Sistema Hortifruti</a></td> 
+      <td>🧮 <a href="https://github.com/AnaBeatrizBentoSilva/calculadora.git">Calculadora</a></td>
+      <td>🧩 <a href="https://github.com/AnaBeatrizBentoSilva/dio-sudoku.git">Sudoku</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/condicoes-do-tempo-webpack.git">Tempo com Webpack</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/login-angular-java.git">Login</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/jokempo.git">Jokempô</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/conversor-won.git">Conversor de Won</a></td>
+      <td>💵 <a href="https://github.com/AnaBeatrizBentoSilva/show-milhao.git">Show do Milhão</a></td>
+      <td>✊ <a href="https://github.com/AnaBeatrizBentoSilva/jokempo.git">Jokempô</a></td>
+      <td>🏃‍♂️ <a href="https://github.com/AnaBeatrizBentoSilva/jogo-chao-vidro.git">Jogo Chão de Vidro</a></td>
+      <td>⚔️ <a href="https://github.com/AnaBeatrizBentoSilva/jogo-cabo-guerra.git">Jogo Cabo de Guerra</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/jogo-chao-vidro.git">Jogo Chão de Vidro</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/jogo-cabo-guerra.git">Jogo Cabo de Guerra</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/show-milhao.git">Show do Milhão</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/nubank-current-style-frontend.git">Nubank Moderna</a></td>
+      <td>₩ <a href="https://github.com/AnaBeatrizBentoSilva/conversor-won.git">Conversor de Won</a></td>  
+      <td>🔑 <a href="https://github.com/AnaBeatrizBentoSilva/criptografia-php.git">Criptografia</a></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/nubank-old-style-frontend.git">Nubank Antiga</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/dio-sudoku.git">Sudoku</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/sistema-hortifruti.git">Hortifruti</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/smart-support-ai.git">Agente de IA</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trybank-web-front">Sistema Bancário(Front-end)</a></td>
-      <td><a href="https://github.com/AnaBeatrizBentoSilva/trybank-core-service.git">Sistema Bancário(Back-end)</a></td>
-    <tr>
   </table>
 </div>
 
